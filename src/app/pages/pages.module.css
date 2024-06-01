@@ -1,0 +1,10 @@
+/* 404 styles */
+.container{
+    background: #39333f;
+    color: #fff;
+    border-radius: 1rem;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 600;
+}
