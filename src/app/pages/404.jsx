@@ -1,7 +1,6 @@
 import React from "react";
 import "../styles/notfound.css";
 import logo from "../../app/assets/404.jpeg";
-import styles from "./pages.module.css"
 
 function Page() {
   const goBack = () => {
@@ -15,7 +14,7 @@ function Page() {
         onClick={goBack}
         target="_blank"
         rel="noopener noreferrer"
-        className={styles.container}
+        className="container"
       >
         Go back...
       </button>
